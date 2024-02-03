@@ -1,0 +1,10 @@
+# Ignore specific large files
+shape_predictor_68_face_landmarks.dat
+model/imagenet-resnet-50/resnet-50-0000.params
+model/retinaface-R50/R50-0000.params
+
+# Ignore all .dat files
+*.dat
+
+# Ignore directory
+large_files/
