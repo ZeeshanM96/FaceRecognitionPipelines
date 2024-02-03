@@ -1,0 +1,29 @@
+[33mcommit f0a593c8dc552b8bd6abec2fb44c2499ede9861d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ZeeshanM96 <zeeshanmajeedabdul@gmail.com>
+Date:   Sat Feb 3 03:47:01 2024 +0100
+
+    Remove large files to comply with GitHub file size limits
+
+[33mcommit 099adbc328da5c9b56af2178e90e9aa18b32614e[m
+Author: ZeeshanM96 <zeeshanmajeedabdul@gmail.com>
+Date:   Sat Feb 3 03:43:26 2024 +0100
+
+    Update .gitignore to exclude Modal files due to size
+
+[33mcommit 4b3617b0ad6b7b7bbcd40d649b2da6fee371698b[m
+Author: ZeeshanM96 <zeeshanmajeedabdul@gmail.com>
+Date:   Sat Feb 3 03:32:32 2024 +0100
+
+    first commit
+
+[33mcommit cfb008d1452258ac03c400ac4166a5e554eee177[m
+Author: ZeeshanM96 <zeeshanmajeedabdul@gmail.com>
+Date:   Sat Feb 3 03:21:33 2024 +0100
+
+    first commit
+
+[33mcommit d043a09eff9ebd56f8d870bd8f67a186588b41a9[m
+Author: ZeeshanM96 <zeeshanmajeedabdul@gmail.com>
+Date:   Sat Feb 3 03:04:11 2024 +0100
+
+    Initial commit

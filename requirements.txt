@@ -1,0 +1,11 @@
+opencv-python
+insightface
+scikit-learn
+matplotlib
+pandas
+numpy
+dlib
+Pillow
+scipy
+xlsxwriter
+openpyxl
